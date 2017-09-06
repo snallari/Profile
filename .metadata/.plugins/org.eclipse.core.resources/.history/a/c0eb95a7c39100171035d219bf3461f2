@@ -1,0 +1,6 @@
+<md-chip-list class="mat-chip-list-stacked"> 
+<md-chip class="a" color="primary" selected="true"><center>Primary fish</center></md-chip> <md-chip
+	class="b" color="accent" selected="true">Accent fish</md-chip> <md-chip
+	class="a" color="warn" selected="true">Primary fish</md-chip> <md-chip
+	class="b" color="foregroud" selected="true">Accent fish</md-chip> 
+</md-chip-list>

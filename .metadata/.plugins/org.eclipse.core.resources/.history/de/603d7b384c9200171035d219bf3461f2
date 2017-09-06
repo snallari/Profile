@@ -1,0 +1,39 @@
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+  
+<!-- The Timeline -->
+
+<ul class="timeline">
+
+	<!-- Item 1 -->
+	<li>
+		<div class="direction-r">
+				<span>Tiaa</span>
+				<span><span>2015 - 2017</span></span>
+			<div>Was a part of a team to create additional features for Tiaa app. Added many features like pending transactions, Life Insurance, Brokereage, Mutual Funds, After tax anuity, immediate annuity</div>
+		</div>
+	</li>
+  
+	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Xerox Corporation</span>
+				<span class="time-wrapper"><span class="time">2014 - 2015</span></span>
+			</div>
+			<div class="desc">Worked on printportal app which helps the user to search the printers , mark it has favourite , sent out the print.</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Green Vision Solutions</span>
+				<span class="time-wrapper"><span class="time">2012 - 2014</span></span>
+			</div>
+			<div class="desc">Worked on multiple projects.</div>
+		</div>
+	</li>
+  
+</ul>

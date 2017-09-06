@@ -1,0 +1,12 @@
+md-grid-tile {
+  background: lightblue;
+}
+.intro{
+background-color: #87CEEB;
+padding: 30px;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 12pt;
+color: #FFFFFF;
+text-align: center;
+margin: auto;
+}

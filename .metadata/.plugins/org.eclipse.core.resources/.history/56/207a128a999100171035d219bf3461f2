@@ -1,0 +1,5 @@
+<md-chips>
+      <md-chip>Hockey</md-chip>
+      <md-chip>Lacrosse</md-chip>
+      <md-chip>Baseball</md-chip>
+      </md-chips>

@@ -1,0 +1,11 @@
+md-chip {
+  max-width: 200px;
+  margin:20px;
+}
+
+.a{
+	position: absolute;
+    right: 0px;
+    width: 300px;
+    background-color: #b0e0e6;
+}

@@ -1,0 +1,3 @@
+<md-chip-list class="mat-chip-list-stacked">
+<md-chip>Abc</md-chip>
+</md-chip-list>
