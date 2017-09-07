@@ -7,8 +7,9 @@
     "baseUrl": "",
     "types": [
       "jasmine",
-      "node"
-    ]
+      "node",
+      "firebase"
+   ]
   },
   "files": [
     "test.ts"
