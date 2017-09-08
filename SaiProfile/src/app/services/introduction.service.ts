@@ -4,7 +4,7 @@ import {AngularFireDatabase, FirebaseListObservable, FirebaseObjectObservable} f
 
 @Injectable()
 export class IntroductionService {
-  basePath: string = 'https://shruti-f45db.firebaseio.com/';
+  basePath: string = 'https://profile-42b3b.firebaseio.com/Introduction';
   items: FirebaseListObservable<Item[]> = null;
   item: FirebaseObjectObservable<Item> = null;
 

@@ -1,10 +1,6 @@
-<md-grid-list cols="4" rowHeight="2:1">
-  <md-grid-tile>1</md-grid-tile>
-  <md-grid-tile>2</md-grid-tile>
-  <md-grid-tile>3</md-grid-tile>
-  <md-grid-tile>4</md-grid-tile>
-  <md-grid-tile>1</md-grid-tile>
-  <md-grid-tile>2</md-grid-tile>
-  <md-grid-tile>3</md-grid-tile> <md-grid-tile>4</md-grid-tile>
- 
+<md-grid-list cols="2" rowHeight="2:1"> <md-grid-tile
+	*ngFor="let exp of experienceItems | async"> <a
+	href="{{exp.url}}">{{exp.id}} <img src="{{exp.img}}"  class="img-rounded"
+	alt="HTML tutorial"></a></md-grid-tile>
+
 </md-grid-list>
