@@ -1,19 +1,8 @@
 .intro{
 background-color: #87CEEB;
-padding: 30px;
 font-family: Verdana, Geneva, sans-serif;
 font-size: 12pt;
-color: #FFFFFF;
 text-align: center;
-margin-left: 10px;
-margin-right:10px;
-}
-.list {
-	background-color: #808080;
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 12pt;
-	color: #FFFFFF;
-	text-align: left;
 }
 .image{
 	background-color: #808080;

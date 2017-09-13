@@ -1,0 +1,8 @@
+
+<md-card class="intro" [@flyInOut]>
+<ul class="list">
+	<li *ngFor="let item of items | async">
+	{{item.title}}</li>
+</ul>
+</md-card>
+

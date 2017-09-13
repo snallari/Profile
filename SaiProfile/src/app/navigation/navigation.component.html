@@ -1,16 +1,28 @@
-<!-- <nav class="nav nav-pills nav-stacked">
-	<a routerLink="work" routerLinkActive="active">Forms</a> <a
-		routerLink="introduction" routerLinkActive="active">Forms</a> <a
-		routerLink="experience" routerLinkActive="active">Forms</a>
+<!-- <nav class="navbar navbar-inverse" role="navigation">
+
+	<div class="navbar-header">
+		<a class="navbar-brand" href="#">TutorialsPoint</a>
+	</div>
+
+	<div>
+		<ul class="nav navbar-nav">
+			<li class="active"><a routerLink="introduction"
+				routerLinkActive="active">Introduction</a></li>
+			<li class="active"><a routerLink="summary"
+				routerLinkActive="active">Summary</a></li>
+			<li class="active"><div [@flyInOut]>
+			<a routerLink="experience"
+				routerLinkActive="active">Experience</a></div></li>
+			<li class="active"><a routerLink="work"
+				routerLinkActive="active">Work</a></li>
+		</ul>
+	</div>
 </nav>
 <router-outlet></router-outlet> -->
-
+<h1>
+	<strong>Shruti Nallari</strong>
+</h1>
 <app-introduction></app-introduction>
-<md-card class="intro">
-<ul class="list">
-	<li *ngFor="let item of items | async">{{item.title}}</li>
-</ul>
-</md-card>
+<app-summary></app-summary>
 <app-work></app-work>
-<app-experience></app-experience>
-
+<!-- <app-experience></app-experience> -->

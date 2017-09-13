@@ -3,4 +3,5 @@ export class Summary {
   title: string;
   url: string;
   startDate: string;
+  description: string;
 }
