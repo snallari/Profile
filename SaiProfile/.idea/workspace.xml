@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a37838bd-5287-420d-911e-8796eafb9061" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.ts" afterPath="$PROJECT_DIR$/src/app/app.component.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/experience/experience.component.html" afterPath="$PROJECT_DIR$/src/app/experience/experience.component.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/experience/experience.component.ts" afterPath="$PROJECT_DIR$/src/app/experience/experience.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/summary/summary.component.html" afterPath="$PROJECT_DIR$/src/app/summary/summary.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/summary/summary.component.ts" afterPath="$PROJECT_DIR$/src/app/summary/summary.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/work/work.component.html" afterPath="$PROJECT_DIR$/src/app/work/work.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/work/work.component.ts" afterPath="$PROJECT_DIR$/src/app/work/work.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tsconfig.json" afterPath="$PROJECT_DIR$/tsconfig.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tslint.json" afterPath="$PROJECT_DIR$/tslint.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/navigation/navigation.component.html" afterPath="$PROJECT_DIR$/src/app/navigation/navigation.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/navigation/navigation.component.ts" afterPath="$PROJECT_DIR$/src/app/navigation/navigation.component.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -27,53 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="summary.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/summary/summary.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="introduction.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/introduction/introduction.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-37">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="introduction.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/introduction/introduction.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="introduction.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/introduction/introduction.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navigation.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/navigation/navigation.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="340">
+              <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -82,8 +35,28 @@
       <file leaf-file-name="experience.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/experience/experience.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="30">
+              <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/work/work.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="50" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="experience.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/models/Portfolio/experience.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,8 +65,8 @@
       <file leaf-file-name="experience.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/experience/experience.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+            <state relative-caret-position="426">
+              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="21" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -101,36 +74,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work.component.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/work/work.component.ts">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            <state relative-caret-position="332">
+              <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding>
-                <element signature="e#0#58#0" expanded="true" />
+                <element signature="e#0#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summary.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/summary/summary.component.ts">
+      <file leaf-file-name="summary.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/models/Portfolio/summary.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/work/work.component.html">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="24" />
+              <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/navigation/navigation.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,6 +154,9 @@
       <find>\&lt;md\-progress\-bar \*ngIf\=\&quot;show \; else elseBlock\&quot; mode\=\&quot;indeterminate\&quot;\&gt;\&lt;\/md\-progress\-bar\&gt;\n\&lt;ng\-template \#elseBlock\&gt;\n\&lt;md\-card class\=\&quot;intro\&quot; \[\@flyInOut\]\&gt;\n  \&lt;ul class\=\&quot;list\&quot;\&gt;\n    \&lt;li \*ngFor\=\&quot;let item of items \| async\&quot;\&gt;\n      \{\{item\.title\}\}\&lt;\/li\&gt;\n  \&lt;\/ul\&gt;\n  \n\&lt;\/md\-card\&gt;\n\&lt;\/ng\-template\&gt;\n\n</find>
       <find>\&lt;md\-progress\-bar \*ngIf\=\&quot;show\; else elseBlock\&quot; mode\=\&quot;indeterminate\&quot;\&gt;\&lt;\/md\-progress\-bar\&gt;\n\n\&lt;md\-card class\=intro\&gt;\n\&lt;link\n\	href\=\'https\:\/\/fonts\.googleapis\.com\/css\?family\=Open\+Sans\:400\,300\,300italic\,400italic\,600\,600italic\,700\,700italic\'\n\	rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n\n\&lt;\!\-\- The Timeline \-\-\&gt;\n\&lt;ul class\=\&quot;timeline\&quot;\&gt;\n\n\	\&lt;\!\-\- Item 1 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-r\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItem1\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2015 \-\n\	\	\	\	\	\	present\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItem2\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\	\&lt;\!\-\- Item 2 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-l\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItem2\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2014 \- 2015\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItem2\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\	\&lt;\!\-\- Item 3 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-r\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItem3\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2012 \- 2014\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItem3\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\&lt;\/ul\&gt;\n\&lt;\/md\-card\&gt;\n</find>
       <find>\&lt;md\-progress\-bar \*ngIf\=\&quot;show\; else elseBlock\&quot; mode\=\&quot;indeterminate\&quot;\&gt;\&lt;\/md\-progress\-bar\&gt;\n\&lt;ng\-template \#elseBlock\&gt;\n\&lt;md\-card class\=intro\&gt;\n\&lt;link\n\	href\=\'https\:\/\/fonts\.googleapis\.com\/css\?family\=Open\+Sans\:400\,300\,300italic\,400italic\,600\,600italic\,700\,700italic\'\n\	rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n\n\&lt;\!\-\- The Timeline \-\-\&gt;\n\&lt;ul class\=\&quot;timeline\&quot;\&gt;\n\n\	\&lt;\!\-\- Item 1 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-r\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItem1\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2015 \-\n\	\	\	\	\	\	present\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItem2\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\	\&lt;\!\-\- Item 2 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-l\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItem2\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2014 \- 2015\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItem2\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\	\&lt;\!\-\- Item 3 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-r\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItem3\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2012 \- 2014\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItem3\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\&lt;\/ul\&gt;\n\&lt;\/md\-card\&gt;\n\&lt;\/ng\-template\&gt;\n</find>
+      <find>\&lt;md\-progress\-bar \*ngIf\=\&quot;show\; else elseBlock\&quot; mode\=\&quot;indeterminate\&quot;\&gt;\&lt;\/md\-progress\-bar\&gt;\n\&lt;ng\-template \#elseBlock\&gt;\n\&lt;md\-card class\=intro\&gt;\n\&lt;link\n\	href\=\'https\:\/\/fonts\.googleapis\.com\/css\?family\=Open\+Sans\:400\,300\,300italic\,400italic\,600\,600italic\,700\,700italic\'\n\	rel\=\'stylesheet\' type\=\'text\/css\'\&gt;\n\n\&lt;\!\-\- The Timeline \-\-\&gt;\n\&lt;ul class\=\&quot;timeline\&quot;\&gt;\n\	\&lt;\!\-\- Item 1 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-r\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItems\[0\]\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2015 \-\n\	\	\	\	\	\	present\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItems\[0\]\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\	\&lt;\!\-\- Item 2 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-l\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItems\[1\]\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2014 \- 2015\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItems\[1\]\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\	\&lt;\!\-\- Item 3 \-\-\&gt;\n\	\&lt;li\&gt;\n\	\	\&lt;div class\=\&quot;direction\-r\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;flag\-wrapper\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;flag\&quot;\&gt;\{\{summaryItems\[2\]\.title\}\}\&lt;\/span\&gt; \&lt;span\n\	\	\	\	\	class\=\&quot;time\-wrapper\&quot;\&gt;\&lt;span class\=\&quot;time\&quot;\&gt;2012 \- 2014\&lt;\/span\&gt;\&lt;\/span\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;desc\&quot;\&gt;\{\{summaryItems\[2\]\.description\}\}\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/li\&gt;\n\n\&lt;\/ul\&gt;\n\&lt;\/md\-card\&gt;\n\&lt;\/ng\-template\&gt;\n</find>
+      <find>\&lt;\!\-\- \&lt;nav class\=\&quot;navbar navbar\-inverse\&quot; role\=\&quot;navigation\&quot;\&gt;\n\n\	\&lt;div class\=\&quot;navbar\-header\&quot;\&gt;\n\	\	\&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\#\&quot;\&gt;TutorialsPoint\&lt;\/a\&gt;\n\	\&lt;\/div\&gt;\n\n\	\&lt;div\&gt;\n\	\	\&lt;ul class\=\&quot;nav navbar\-nav\&quot;\&gt;\n\	\	\	\&lt;li class\=\&quot;active\&quot;\&gt;\&lt;a routerLink\=\&quot;introduction\&quot;\n\	\	\	\	routerLinkActive\=\&quot;active\&quot;\&gt;Introduction\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\&lt;li class\=\&quot;active\&quot;\&gt;\&lt;a routerLink\=\&quot;summary\&quot;\n\	\	\	\	routerLinkActive\=\&quot;active\&quot;\&gt;Summary\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\&lt;li class\=\&quot;active\&quot;\&gt;\&lt;div \[\@flyInOut\]\&gt;\n\	\	\	\&lt;a routerLink\=\&quot;experience\&quot;\n\	\	\	\	routerLinkActive\=\&quot;active\&quot;\&gt;Experience\&lt;\/a\&gt;\&lt;\/div\&gt;\&lt;\/li\&gt;\n\	\	\	\&lt;li class\=\&quot;active\&quot;\&gt;\&lt;a routerLink\=\&quot;work\&quot;\n\	\	\	\	routerLinkActive\=\&quot;active\&quot;\&gt;Work\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\&lt;\/ul\&gt;\n\	\&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\&lt;router\-outlet\&gt;\&lt;\/router\-outlet\&gt; \-\-\&gt;\n\&lt;h1\&gt;\n\	\&lt;strong\&gt;Shruti Nallari\&lt;\/strong\&gt;\n\&lt;\/h1\&gt;\n\&lt;div\&gt;\n\&lt;app\-introduction\&gt;\&lt;\/app\-introduction\&gt;\n\&lt;app\-summary\&gt;\&lt;\/app\-summary\&gt;\n\&lt;app\-work\&gt;\&lt;\/app\-work\&gt;\n\&lt;app\-experience\&gt;\&lt;\/app\-experience\&gt;\n\n\&lt;\/div\&gt;\n</find>
+      <find>import \{Component\} from \'\@angular\/core\'\;\nimport \{animate\, state\, style\, transition\, trigger\} from \&quot;\@angular\/core\/src\/animation\/dsl\&quot;\;\n\n\@Component\(\{\n  selector\: \'app\-root\'\,\n  templateUrl\: \'\.\/app\.component\.html\'\,\n  styleUrls\: \[\'\.\/app\.component\.css\'\]\,\n  animations\: \[trigger\(\'flyInOut\'\, \[transition\(\'void\=\&gt;\*\'\, \[style\(\{transform\: \'translateX\(\-100\%\)\'\}\)\, animate\(\'2s 3s ease\-in\'\, style\(\{transform\: \'rotate\(180deg\)\'\}\)\)\]\)\,\n  transition\(\'void\=\&gt;\*\'\, \[style\(\{transform\: \'translateX\(\-100\%\)\'\}\)\n  \]\)\n  \]\)\,trigger\(\'heightTrigger\'\, \[\n    state\(\'noHeight\'\, style\(\{height\: 0\}\)\)\,\n    state\(\'fullHeight\'\, style\(\{height\: \'\*\'\}\)\)\,\n    transition\(\'noHeight \&lt;\=\&gt; fullHeight\'\, \[animate\(\'2000ms\'\)\]\)\]\)\n  \]\n\}\)\nexport class AppComponent \{\n  showDiv\: boolean \= false\;\n  title \= \'Shruti Nallari\'\;\n\n\}\n</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -172,12 +170,15 @@
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/src/app/summary/summary.component.ts" />
-        <option value="$PROJECT_DIR$/src/app/work/work.component.ts" />
-        <option value="$PROJECT_DIR$/src/app/experience/experience.component.ts" />
         <option value="$PROJECT_DIR$/src/app/work/work.component.html" />
         <option value="$PROJECT_DIR$/src/app/summary/summary.component.html" />
+        <option value="$PROJECT_DIR$/src/app/work/work.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/summary/summary.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/experience/experience.component.ts" />
         <option value="$PROJECT_DIR$/src/app/experience/experience.component.html" />
+        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/navigation/navigation.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/navigation/navigation.component.html" />
       </list>
     </option>
   </component>
@@ -192,11 +193,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="709" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="292" />
+    <option name="y" value="60" />
+    <option name="width" value="729" />
+    <option name="height" value="671" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -245,7 +246,15 @@
               <item name="SaiProfile" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaiProfile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaiProfile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SaiProfile" type="b2602c69:ProjectViewProjectNode" />
@@ -372,25 +381,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505275761303</updated>
-      <workItem from="1505275762607" duration="8057000" />
+      <workItem from="1505275762607" duration="10893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8057000" />
+    <option name="totallyTimeSpent" value="10893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1280" height="709" extended-state="0" />
+    <frame x="292" y="60" width="729" height="671" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.76346606" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43895748" sideWeight="0.76349616" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3505843" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.23653395" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43895748" sideWeight="0.23650385" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -491,34 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/navigation/navigation.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/introduction/introduction.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -527,12 +508,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/introduction/introduction.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/app/summary/summary.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/work/work.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="21" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -547,11 +536,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/work/work.component.html">
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/introduction.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="-37">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -563,47 +554,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/navigation/navigation.component.html">
+    <entry file="file://$PROJECT_DIR$/src/app/models/Portfolio/experience.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/summary/summary.component.html">
+    <entry file="file://$PROJECT_DIR$/src/app/models/Portfolio/summary.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/experience/experience.component.html">
+    <entry file="file://$PROJECT_DIR$/src/app/work/work.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="30">
+          <caret line="2" column="50" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/experience/experience.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        <state relative-caret-position="426">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="21" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/work/work.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="332">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#0#55#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/experience/experience.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="64" lean-forward="false" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/navigation/navigation.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/navigation/navigation.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

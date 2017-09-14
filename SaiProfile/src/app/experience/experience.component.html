@@ -1,6 +1,6 @@
 <md-progress-bar *ngIf="show; else elseBlock" mode="indeterminate"></md-progress-bar>
 <ng-template #elseBlock>
-<md-card class=intro>
+<md-card class=intro [@flyInOut]>
 <link
 	href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic'
 	rel='stylesheet' type='text/css'>
@@ -12,11 +12,11 @@
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">{{summaryItem1.title}}</span> <span
+				<span class="flag">{{summaryItem1?.title}}</span> <span
 					class="time-wrapper"><span class="time">2015 -
 						present</span></span>
 			</div>
-			<div class="desc">{{summaryItem2.description}}</div>
+			<div class="desc">{{summaryItem1?.description}}</div>
 		</div>
 	</li>
 
@@ -24,10 +24,10 @@
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">{{summaryItem2.title}}</span> <span
+				<span class="flag">{{summaryItem2?.title}}</span> <span
 					class="time-wrapper"><span class="time">2014 - 2015</span></span>
 			</div>
-			<div class="desc">{{summaryItem2.description}}</div>
+			<div class="desc">{{summaryItem2?.description}}</div>
 		</div>
 	</li>
 
@@ -35,10 +35,10 @@
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">{{summaryItem3.title}}</span> <span
+				<span class="flag">{{summaryItem3?.title}}</span> <span
 					class="time-wrapper"><span class="time">2012 - 2014</span></span>
 			</div>
-			<div class="desc">{{summaryItem3.description}}</div>
+			<div class="desc">{{summaryItem3?.description}}</div>
 		</div>
 	</li>
 
