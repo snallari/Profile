@@ -14,6 +14,7 @@ import {AngularFireDatabaseModule} from 'angularfire2/database';
 import {AngularFireModule} from 'angularfire2';
 import {RouterModule} from '@angular/router';
 import {NavigationComponent} from './navigation/navigation.component';
+import {MdProgressBarModule} from '@angular/material';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import {NavigationComponent} from './navigation/navigation.component';
     AppComponent, routingComponents, NavigationComponent
   ],
   imports: [
-    BrowserModule, MdToolbarModule, MdCardModule, MdTabsModule, MdGridListModule, MdChipsModule, BrowserAnimationsModule, AngularFireModule.initializeApp(config), AngularFireDatabaseModule, AppRoutingModule
+    BrowserModule, MdToolbarModule, MdCardModule, MdTabsModule, MdGridListModule, MdChipsModule, BrowserAnimationsModule, AngularFireModule.initializeApp(config), AngularFireDatabaseModule, AppRoutingModule,
+    MdProgressBarModule
   ],
   providers: [],
   bootstrap: [AppComponent]

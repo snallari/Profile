@@ -21,12 +21,14 @@ export class ExperienceComponent implements OnInit {
   summaryItem2: Summary;
   summaryItem1: Summary;
   summaryItems: FirebaseListObservable<Summary[]>;
+  show: boolean= false;
 
 
   constructor(private itemSvc: ExperienceService) {
 
   }
   ngOnInit(): void {
+    this.show = true;
     this.summaryItems = this.itemSvc.getSummaryList({limitToLast: 5});
     this.summaryItems.forEach(item => {
       this.summaryItem1 = item[0];

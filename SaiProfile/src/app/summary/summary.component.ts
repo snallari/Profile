@@ -18,11 +18,13 @@ import {FirebaseListObservable} from "angularfire2/database";
 export class SummaryComponent implements OnInit {
 
   items: FirebaseListObservable<Item[]>;
+  show: boolean= true;
 
   constructor(private itemSvc: IntroductionService) {
 
   }
   ngOnInit(): void {
+    this.show = false;
     this.items = this.itemSvc.getItemList({limitToLast: 5});
   }
 

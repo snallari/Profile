@@ -1,3 +1,5 @@
+<md-progress-bar *ngIf="show; else elseBlock" mode="indeterminate"></md-progress-bar>
+<ng-template #elseBlock>
 <md-card class=intro>
 <link
 	href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic'
@@ -42,3 +44,4 @@
 
 </ul>
 </md-card>
+</ng-template>

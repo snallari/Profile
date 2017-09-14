@@ -16,11 +16,13 @@ import {trigger, state, style, transition, group, animate} from '@angular/animat
   ]
 })
 export class WorkComponent implements OnInit {
+  show: boolean= true;
   experienceItems: FirebaseListObservable<Experience[]>;
 
   constructor(private itemSvc: ExperienceService) {}
 
   ngOnInit() {
+    this.show = false;
     this.experienceItems = this.itemSvc.getExperienceList({limitToLast: 14});
     console.log(this.experienceItems[0]);
     this.experienceItems.forEach(item => {

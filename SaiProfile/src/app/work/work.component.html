@@ -1,5 +1,9 @@
-
-<md-grid-list cols="4" rowHeight="2:1" [@flyInOut]> <md-grid-tile
-	*ngFor="let exp of experienceItems | async"> <a
-	href="{{exp.url}}">{{exp.id}} <img src="{{exp.img}}"
-	class="img-rounded" alt="{{exp.title}}"></a></md-grid-tile> </md-grid-list>
+<md-progress-bar *ngIf="show; else elseBlock" mode="indeterminate"></md-progress-bar>
+<ng-template #elseBlock>
+<md-grid-list cols="4" rowHeight="2:1" [@flyInOut]>
+  <md-grid-tile
+    *ngFor="let exp of experienceItems | async"><a
+    href="{{exp.url}}">{{exp.id}} <img src="{{exp.img}}"
+                                       class="img-rounded" alt="{{exp.title}}"></a></md-grid-tile>
+</md-grid-list>
+</ng-template>
